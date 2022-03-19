@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @avrrodriguez
 - 👀 I’m interested in psychology and computer science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html, react, flask
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - pqavrr835@gmail.com
 
 <!---
 avrrodriguez/avrrodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

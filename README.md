@@ -1,3 +1,8 @@
+
+Skills: Ruby, Javascript, Python, Matlab
+Tools: Ruby on Rails, React, Git, Github, VS Code, Linux
+
+## About Me
 - 👋 Hi, I’m @avrrodriguez
 - 👀 I’m interested in psychology and computer science
 - 🌱 I’m currently learning ruby, Ruby on Rails, Javascript

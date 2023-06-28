@@ -1,5 +1,5 @@
 
-Skills: Ruby, Java, Javascript, Python, Java, Matlab
+Skills: Ruby, Java, Javascript, Python, Matlab
 
 Tools: Ruby on Rails, React, Git, GraphQL, Next.js, SQL, Github, VS Code, Linux
 

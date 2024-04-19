@@ -1,7 +1,7 @@
 
 Skills: Ruby, Java, Javascript, Python, Wordpress, Matlab
 
-Tools: Ruby on Rails, React, Git, GraphQL, Next.js, SQL, Github, VS Code, Linux
+Tools: Ruby on Rails, React.js, Git, GraphQL, Next.js, MySQL, Github, VS Code, Astro
 
 ## About Me
 - 👋 Hi, I’m @avrrodriguez
